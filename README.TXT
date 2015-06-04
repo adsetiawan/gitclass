@@ -1,3 +1,9 @@
 ECG CLASS
 
-ADD BY HANAFI
+Indonesia merdeka
+
+for (i=1:100) {
+   y = sin(i*omega);
+}
+
+figure, plot(y);
